@@ -22,5 +22,9 @@ The demonstrations are in the `examples/` directory.
 
     python example_fieldmaps.py.
 
+- install the ZyX module from the main directory
+
+    sudo python setup.py install
+
 - use the example Jupyter notebook [tubeApproach.ipynb](examples/TubeApproach.ipynb) to study the fieldmaps.
 

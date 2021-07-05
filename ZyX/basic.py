@@ -1,6 +1,4 @@
-from autograd import elementwise_grad
-from autograd.numpy import fabs
-from numpy import abs, min, max, zeros, arange, linspace, zeros_like, pi
+from numpy import abs, fabs, min, max, zeros, arange, linspace, zeros_like, pi
 from numpy import array, eye, sin, cos
 from numpy.linalg import cond, solve
 from scipy.constants import c, value
