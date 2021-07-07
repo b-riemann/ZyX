@@ -4,7 +4,7 @@ author: Bernard Riemann, [ORCiD: 0000-0002-5102-9546](https://orcid.org/0000-000
 
 used in:
 
-B. Riemann, "Algorithm to Analyze Complex Magnetic Structures Using a Tube Approach", Proc. IPAC21 (accepted for publication), Campinas, Brazil (2021).
+B. Riemann and M. Aiba, "Algorithm to Analyze Complex Magnetic Structures Using a Tube Approach", Proc. IPAC21, Campinas, Brazil (2021).
 
 If you publish material using this software, please cite the above reference.
 
