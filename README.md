@@ -6,8 +6,6 @@ used in:
 
 B. Riemann and M. Aiba, "Algorithm to Analyze Complex Magnetic Structures Using a Tube Approach", Proc. IPAC21, Campinas, Brazil (2021).
 
-If you publish material using this software, please cite the above reference.
-
 ## Requirements
 
 The computations require Python and Scipy (see [requirements.txt](requirements.txt)). It is recommended to use a modern Linux distribution, although a setup in Windows should be possible in principle.
