@@ -10,7 +10,7 @@ If you publish material using this software, please cite the above reference.
 
 ## Requirements
 
-The computations require Python and Scipy (see [requirements.txt](requirements.txt)). Also, for the 2d features, [autograd](https://github.com/HIPS/autograd) is required. It is recommended to use a modern Linux distribution, although a setup in Windows should be possible in principle.
+The computations require Python and Scipy (see [requirements.txt](requirements.txt)). It is recommended to use a modern Linux distribution, although a setup in Windows should be possible in principle.
 
 To execute the example notebook, it is recommended to also install [JupyterLab or Jupyter Notebook](https://jupyter.org).
 
