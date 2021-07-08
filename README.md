@@ -12,17 +12,18 @@ The computations require Python and Scipy (see [requirements.txt](requirements.t
 
 To execute the example notebook, it is recommended to also install [JupyterLab or Jupyter Notebook](https://jupyter.org).
 
+## Installation
+
+Install the ZyX module from the main directory
+
+    sudo python setup.py install
+
 ## Usage
 
 The demonstrations are in the `examples/` directory.
 
-- generate the fieldmap files calling
+Generate the fieldmap files calling
 
-    python example_fieldmaps.py.
+    python example_fieldmaps.py
 
-- install the ZyX module from the main directory
-
-    sudo python setup.py install
-
-- use the example Jupyter notebook [tubeApproach.ipynb](examples/TubeApproach.ipynb) to study the fieldmaps.
-
+Then use the example Jupyter notebook [tubeApproach.ipynb](examples/TubeApproach.ipynb) to study the fieldmaps.
